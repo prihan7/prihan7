@@ -14,7 +14,7 @@ I enjoy working with Python, SQL, Power BI, and Machine Learning to analyze data
 - **Data Analysis:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **Machine Learning:** Scikit-learn
-- **Tools:** Jupyter Notebook, Git, GitHub, Excel
+  
 
 ---
 
@@ -30,17 +30,7 @@ I enjoy working with Python, SQL, Power BI, and Machine Learning to analyze data
 - Analyzed banking marketing campaign data to identify customer subscription trends and business insights.
 
 🗃️ **SQL Projects**
-- SQL queries covering Joins, Window Functions, Aggregations, CTEs, and Business Case Studies.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Data Visualization
-- Git & GitHub Best Practices
+-Solved SQL practice problems covering data retrieval, filtering, joins, grouping, aggregation, and subqueries using MySQL. 
 
 ---
 
